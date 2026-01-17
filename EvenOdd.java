@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 public class EvenOdd {
     
@@ -15,4 +16,8 @@ public class EvenOdd {
             System.out.println("the enter number is Odd number");
         }
     }
+=======
+public class EvenOdd {
+    
+>>>>>>> ad0bd0aa3e75c5390dad800761582d5127c346cb
 }
